@@ -5,7 +5,7 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 This is a personal challenge to create a mini html-css-javascript project, for 50 days in a row.
 
 
-  Proyecto |Proyecto |Demo| Codigo
+  Numero |Proyecto |Demo| Codigo
  ---- |---- |--| ------  
-   Blog |Blog |[Demo](https://vibrant-payne-863334.netlify.app/)| contenido celular 
+   1 |Blog |[Demo](https://vibrant-payne-863334.netlify.app/)| contenido celular 
    
