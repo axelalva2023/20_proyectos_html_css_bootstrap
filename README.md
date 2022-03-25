@@ -5,5 +5,5 @@ This is a personal challenge to create a mini html-css-javascript project, for 5
 
    Proyecto | Demo | Codigo
  ---- | ----- | ------  
-   Blog | https://vibrant-payne-863334.netlify.app/ | contenido celular 
+   Blog | [Demo] (https://vibrant-payne-863334.netlify.app/) | contenido celular 
    Contenido celular | contenido celular | contenido celular 
