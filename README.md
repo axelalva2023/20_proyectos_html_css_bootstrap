@@ -1,6 +1,5 @@
 # Proyectos
 
-Este es un reto personal de crear 20 proyectos de html-css-bootstrap
 
 
   Numero |Proyecto |Demo| Codigo
