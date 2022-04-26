@@ -5,7 +5,7 @@ Hola estos son mis proyectos jaaaaaaaaaaaaaaaaaa
 
   Numero |Proyecto |Demo| Codigo
  ---- |---- |--| ------  
-   01 |Blog |[Demo](https://vibrant-payne-863334.netlify.app/)| contenido celular 
+   01 |Pizzeria |[Demo](https://vibrant-payne-863334.netlify.app/)| contenido celular 
    02 |Biografia|[Demo](https://quizzical-varahamihira-716d91.netlify.app/)| contenido celular
    03 |Tu propia aventura|[Demo](https://mellifluous-dolphin-db6254.netlify.app/)| contenido celular
    04 |Instapet|[Demo](https://reliable-lebkuchen-b846b7.netlify.app/)| contenido celular 
