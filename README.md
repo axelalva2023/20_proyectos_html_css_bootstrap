@@ -11,6 +11,7 @@
    05 |Gimnasio |[Demo](https://gimnasio-gold-gym.netlify.app/)| contenido celular 
    06 |Heladeria |[Demo](https://heladeria-proyecto.netlify.app/)| contenido celular 
    07 |Puntero colores |[Demo](https://puntero-colores.netlify.app/)| contenido celular 
+   08 |Slider css |[Demo](https://sliderrr-css.netlify.app/)| contenido celular 
   
    
    
